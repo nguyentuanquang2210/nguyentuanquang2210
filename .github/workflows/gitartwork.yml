@@ -1,24 +1,24 @@
-name: Generate GitArtWork
+name: Generate gitartwork
 
 on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    name: Make gitartwork SVG
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate GitArtWork
-        uses: jasineri/gitartwork@v1
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
         with:
           user_name: nguyentuanquang2210
-          text: QUANG
-
-      - name: List generated files
+          text: QUANG!
+      - name: Set Git User
         run: |
-          pwd
-          ls -la
-          find . -name "*.svg"
+          git config user.name "nguyentuanquang2210"
+          git config user.email "quangenguyene@gmail.com"
+      - uses: jasineri/simple-push-action@v1

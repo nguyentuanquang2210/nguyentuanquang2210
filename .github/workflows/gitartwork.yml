@@ -7,12 +7,17 @@ on:
     - cron: "0 */4 * * *"
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     name: Make gitartwork SVG
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: jasineri/gitartwork@v1
         with:
           user_name: nguyentuanquang2210
@@ -22,3 +27,5 @@ jobs:
           git config user.name "nguyentuanquang2210"
           git config user.email "quangenguyene@gmail.com"
       - uses: jasineri/simple-push-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

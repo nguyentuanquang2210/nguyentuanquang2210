@@ -1,73 +1,72 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B9B&center=true&width=435&lines=Nguy%E1%BB%85n+Tu%E1%BA%A5n+Quang" alt="Typing SVG" /></a>
-
-
-<!-- Social icons section -->
-<!-- <p align="center">
-  <a href="https://twitter.com/hoangtien_2k3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@hoangtien2k3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/hoangtien2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7877B&center=true&width=435&lines=Nguy%E1%BB%85n+Tu%E1%BA%A5n+Quang" alt="Typing SVG" /></a>
 
 
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
 
-<div>
-  <a href="https://github.com/reactifyx">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
-  </a>
-
-  <div align="left">
-
-I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+I am passionate about building web and mobile applications, with a strong interest in frontend development, backend systems, and problem solving. I enjoy learning new technologies, creating efficient solutions, and continuously improving my skills to deliver impactful and user-focused experiences.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nguyentuanquang2210/nguyentuanquang2210/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nguyentuanquang2210/nguyentuanquang2210/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/nguyentuanquang2210/nguyentuanquang2210/output/pacman-contribution-graph.svg"
+    width="600">
 </picture>
 
   </div>
 </div>
 
 
-<h2>📚 Language and Tools</h2>
+<h2>📚 Languages and Tools</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
-  <img src="https://img.shields.io/badge/Spring-snow?logo=spring&logoColor=6DB33F" alt="" />
-  <img src="https://img.shields.io/badge/Maven-snow?logo=apachemaven&logoColor=C71A36" alt="" />
-  <img src="https://img.shields.io/badge/Android-snow?logo=android&logoColor=3DDC84" alt="" />
-  <img src="https://img.shields.io/badge/RxJava-snow?logo=reactivex&logoColor=B7178C" alt="" />
-  <img src="https://img.shields.io/badge/Oracle-snow?logo=oracle&logoColor=F80000" alt="" />
-  <img src="https://img.shields.io/badge/PostgreSQL-snow?logo=postgresql&logoColor=4169E1" alt="" />
-  <img src="https://img.shields.io/badge/Docker-snow?logo=docker&logoColor=2496ED" alt="" />
-  <img src="https://img.shields.io/badge/Kubernetes-snow?logo=kubernetes&logoColor=326CE5" alt="" />
-  <img src="https://img.shields.io/badge/Jenkins-snow?logo=jenkins&logoColor=D24939" alt="" />
-  <img src="https://img.shields.io/badge/Redis-snow?logo=redis&logoColor=DC382D" alt="" />
-  <img src="https://img.shields.io/badge/Kafka-snow?logo=apachekafka&logoColor=231F20" alt="" />
-  <img src="https://img.shields.io/badge/RabbitMQ-snow?logo=rabbitmq&logoColor=FF6600" alt="" />
-  <img src="https://img.shields.io/badge/AWS-snow?logo=amazonwebservices&logoColor=FF9900" alt="" />
-  <img src="https://img.shields.io/badge/Postman-snow?logo=postman&logoColor=FF6C37" alt="" />
-  <img src="https://img.shields.io/badge/Linux-snow?logo=linux&logoColor=FCC624" alt="" />
-  <img src="https://img.shields.io/badge/Git-snow?logo=git&logoColor=F05032" alt="" />
+  <!-- Languages -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+
+  <!-- Frontend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+
+  <!-- Mobile -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+
+  <!-- Database -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+
+  <!-- Cloud & Services -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
 </p>
 
 
 <!-- More Information Details Myself -->
 <details>
 <summary> More about me, backend dev 🔥
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nguyentuanquang2210.visitor-badge">
 </summary> 
 
 <p align="center">
@@ -76,65 +75,31 @@ and actively contributing to open-source projects for the community. In addition
 
 ![Header](img/header_.png)
 
-![QUANG!](https://raw.githubusercontent.com/nguyentuanquang2210/nguyentuanquang2210/refs/heads/nguyentuanquang2210-patch-1/gitartwork.svg)
+![Quang](gitartwork.svg)
 
-![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyentuanquang2210/nguyentuanquang2210/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyentuanquang2210/nguyentuanquang2210/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nguyentuanquang2210/nguyentuanquang2210/output/pacman-contribution-graph.svg">
 </picture>
 
 
  <h3 align="left"> 📚 Languages and Tools </h3>
-
-<!-- 💻 Languages -->
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=F7DF1E" alt="" />
+  <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
+  <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
+  <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C" alt="" />
+  <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC" alt="" />
+  <img src="https://img.shields.io/badge/C%23-snow?logo=csharp&logoColor=512BD4" alt="" />
+  <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
+  <img src="https://img.shields.io/badge/Go-snow?logo=go&logoColor=00ADD8" alt="" />
+  <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138" alt="" />
+  <img src="https://img.shields.io/badge/Rust-snow?logo=rust&logoColor=000000" alt="" />
+  <img src="https://img.shields.io/badge/Ruby-snow?logo=ruby&logoColor=CC342D" alt="" />
+  <img src="https://img.shields.io/badge/Kotlin-snow?logo=kotlin&logoColor=7F52FF" alt="" />
   <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&logoColor=3178C6" alt="" />
-  <img src="https://img.shields.io/badge/HTML5-snow?logo=html5&logoColor=E34F26" alt="" />
-  <img src="https://img.shields.io/badge/CSS3-snow?logo=css3&logoColor=1572B6" alt="" />
-</p>
-
-<!-- 🎨 Frontend -->
-<p align="left">
-  <img src="https://img.shields.io/badge/React-snow?logo=react&logoColor=61DAFB" alt="" />
-  <img src="https://img.shields.io/badge/Vite-snow?logo=vite&logoColor=646CFF" alt="" />
-</p>
-
-<!-- 📱 Mobile -->
-<p align="left">
-  <img src="https://img.shields.io/badge/React%20Native-snow?logo=react&logoColor=61DAFB" alt="" />
-</p>
-
-<!-- ⚙️ Backend -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-snow?logo=nodedotjs&logoColor=339933" alt="" />
-  <img src="https://img.shields.io/badge/Express.js-snow?logo=express&logoColor=000000" alt="" />
-</p>
-
-<!-- 🗄️ Database -->
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-snow?logo=mongodb&logoColor=47A248" alt="" />
-  <img src="https://img.shields.io/badge/MySQL-snow?logo=mysql&logoColor=4479A1" alt="" />
-  <img src="https://img.shields.io/badge/Oracle-snow?logo=oracle&logoColor=F80000" alt="" />
-  <img src="https://img.shields.io/badge/PostgreSQL-snow?logo=postgresql&logoColor=4169E1" alt="" />
-</p>
-
-<!-- ☁️ Cloud & Services -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-snow?logo=firebase&logoColor=FFCA28" alt="" />
-  <img src="https://img.shields.io/badge/Cloudinary-snow?logo=cloudinary&logoColor=3448C5" alt="" />
-</p>
-
-<!-- 🛠️ Tools & DevOps -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-snow?logo=git&logoColor=F05032" alt="" />
-  <img src="https://img.shields.io/badge/Postman-snow?logo=postman&logoColor=FF6C37" alt="" />
-  <img src="https://img.shields.io/badge/Jest-snow?logo=jest&logoColor=C21325" alt="" />
-  <img src="https://img.shields.io/badge/Docker-snow?logo=docker&logoColor=2496ED" alt="" />
-  <img src="https://img.shields.io/badge/Vercel-snow?logo=vercel&logoColor=000000" alt="" />
+  <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2" alt="" />
 </p>
 
 
@@ -168,25 +133,33 @@ and actively contributing to open-source projects for the community. In addition
 </div>
 
 
-<a href="#">
-  <img alt="nguyentuanquang2210's Github Stats"
-       src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nguyentuanquang2210&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-       height="192px"/>
-</a>
-
-<a href="#">
-  <img alt="nguyentuanquang2210's Top Languages"
-       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nguyentuanquang2210&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
-       height="192px"/>
-</a>
+<a href="#"><img alt="hoangtien2k3's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="hoangtien2k3's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
 or skill level.
 
-<a href="https://github.com/nguyentuanquang2210">
-  <img alt="nguyentuanquang2210's Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph/?username=nguyentuanquang2210&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<h3>⚡ Recent GitHub Activity</h3>
+
+ <a href="https://commits.top/vietnam.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+  <a href="https://commits.top/vietnam_private.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+
+  <p><a href="hoangtien2k3.github.io"><img src="https://github.com/hoangtien2k3/hoangtien2k3/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3's Web hoangtien2k3"></a></p>
+
+
+<div align="center">
+<a href="https://github.com/hoangtien2k3">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtien2k3&theme=2077" height="180em" />
+</div>
 
 </details>  

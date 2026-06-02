@@ -9,18 +9,20 @@ runs-on: ubuntu-latest
 
 ```
 steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+  - uses: actions/checkout@v4
 
-  - name: Generate GitArtWork
-    uses: jasineri/gitartwork@v1
+  - uses: jasineri/gitartwork@v1
     with:
       user_name: nguyentuanquang2210
       text: QUANG
 
-  - name: List generated files
+  - name: Commit SVG
     run: |
-      pwd
-      ls -la
-      find . -name "*.svg"
+      git config user.name "github-actions[bot]"
+      git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      git add .
+      git commit -m "Update gitartwork.svg" || echo "No changes"
+
+      git push
 ```

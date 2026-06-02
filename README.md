@@ -1,6 +1,6 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B9B&center=true&width=435&lines=Nguy%E1%BB%85n+Tu%E1%BA%A5n+Quang" alt="Typing SVG" /></a>
 
 
 <!-- Social icons section -->
